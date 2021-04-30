@@ -22,3 +22,5 @@ This specification focuses on *what the language does* more than *how the interp
 ## About Nyx
 
 Nyx is a multi-paradigm language, including aspects of functional, object-oriented, and imperative programming. The emphasis is on expressiveness and ease of use, though performance is also a consideration.
+
+Nyx performs computations on data objects within a host environment, which includes the interpreter itself, any runtime objects, and facilities for interacting with operating system, browser, and other system functionalities. A data object is not necessarily the same thing as an object in object-oriented programming, although all values in Nyx can be manipulated as objects with their own internal state information and a set of bundled operations for interacting with and manipulating that information. This document specifies the facilities of the language itself without specifying requirements for a host environment except to indicate certain properties and functionalities the host environment may be required to expose to Nyx in order for the language to interact with it.
