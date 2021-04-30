@@ -17,4 +17,4 @@ Its features include first-class functions and closures, static type checking an
 
 It is designed for use in both browser and server-side environments and interoperativity with the JavaScript language and libraries.
 
-This specification focuses on *what the language does* more than *how the interpreter does it*. Where this specification and the actual behavior of the interpreter differs, the specification should be seen as the goal for implementation in the interpreter (and presumably the interpreter should eventually be updated to match the specification). We've tried to be reasonably precise in this document, but we'll err on the side of readability over exact technical correctness.
+This specification focuses on *what the language does* more than *how the interpreter does it*. Where this specification and the actual behavior of the interpreter differ, the specification should be seen as the goal for implementation in the interpreter (and presumably the interpreter should eventually be updated to match the specification). We've tried to be reasonably precise in this document, but we'll err on the side of readability over exact technical correctness.
