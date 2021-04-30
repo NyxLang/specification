@@ -32,3 +32,9 @@ An implementation is a source that defines facilities coherent with the descript
 Facilities defined in hosts or implementations may follow parameters defined in external specifications; for example, interactions with HTML documents may depend on the standards defined by the W3C.
 
 Both hosts and implementations may interact with this specification via the language types, specification types, abstract operations, grammar, objects, and symbols defined herein.
+
+### Nyx Overview
+
+Nyx is object-based: language and host facilities are provided by objects, and a Nyx program can be defined as a cluster of communicating objects. An _object_ is a collection of zero or more data properties with attributes that define how each property may be used.
+
+Nyx is also function-based: operations are provided by functions, aside from a few special forms that do not conform to the evaluation model for functions
