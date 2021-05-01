@@ -1,6 +1,6 @@
 # Data Model
 
-_Objects_ are Nyx's abstraction for data. All data in a Nyx program is represented by objects or by relations between objects. Even Nyx source code itself is represented by objects.
+_Objects_ are Chopin's abstraction for data. All data in a Chopin program is represented by objects or by relations between objects. Even Chopin source code itself is represented by objects.
 
 Every object has an identity, a type, and a value. An object's _identity_ never changes once it has been created; identity is an immutable property of an object. Each individual object has an id represented by an integer value. If two bindings each hold a reference to the same integer id, they both reference the same object.
 

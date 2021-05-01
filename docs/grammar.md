@@ -1,4 +1,4 @@
-# Nyx Grammar
+# Chopin Grammar
 
 program       = statement*
 

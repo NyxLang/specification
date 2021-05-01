@@ -1,3 +1,3 @@
 # The Reader
 
-The Nyx reader is a recursive-descent parser
+The Chopin reader is a recursive-descent parser

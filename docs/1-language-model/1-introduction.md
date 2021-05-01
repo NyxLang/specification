@@ -1,1 +1,1 @@
-# Introduction to the Nyx Language Model
+# Introduction to the Chopin Language Model
